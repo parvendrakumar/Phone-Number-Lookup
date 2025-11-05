@@ -36,7 +36,7 @@ This project provides a clean interface for looking up phone numbers with inform
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Phone-Number-Lookup/phone-lookup.git
+git clone [https://github.com/parvendrakumar/Phone-Number-Lookup.git]
 cd phone-lookup
 ```
 
